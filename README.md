@@ -125,7 +125,8 @@ streamlit run app.py
 ```
 
 ## 📦 Customer Churn Prediction/
-``` ├── data/
+```
+├── data/
 │ └── Churn_Modelling.csv
 ├── models/
 │ ├── churn_model.h5
