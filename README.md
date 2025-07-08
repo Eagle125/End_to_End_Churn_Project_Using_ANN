@@ -123,3 +123,17 @@ Run the app locally with:
 ```bash
 streamlit run app.py
 ```
+
+## 📦 **Customer Churn Prediction**
+├── data/
+│   └── Churn_Modelling.csv
+├── models/
+│   ├── churn_model.h5
+│   ├── label_encoder_gender.pkl
+│   ├── one_hot_encoder_geo.pkl
+│   └── scaler.pkl
+├── notebooks/
+│   └── experiment.ipynb
+├── app.py
+├── prediction.ipynb
+└── README.md
