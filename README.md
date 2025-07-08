@@ -124,7 +124,7 @@ Run the app locally with:
 streamlit run app.py
 ```
 
-## 📦 **Customer Churn Prediction**
+## ``` 📦 Customer Churn Prediction/
 ├── data/
 │ └── Churn_Modelling.csv
 ├── models/
@@ -137,3 +137,4 @@ streamlit run app.py
 ├── app.py
 ├── prediction.ipynb
 └── README.md
+```
